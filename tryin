@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://fonts.googleapis.com/css?family=Arimo|PT+Sans&display=swap" rel="stylesheet">
+<style>
+	h1{
+		text-align:center;
+	}
+	body { 
+		text-align:center;
+		background:url("https://www.macmillandictionary.com/external/slideshow/full/White_full.png");
+		color:black;
+		font-family:Arimo;
+	}
+	input {
+		padding:10px;
+		font-size:18px;
+	}
+	input[type="submit"] {
+		background:red;
+		color:white;
+	}
+	nav {
+		background-color:powderblue;
+		border: 1px solid black;
+		padding:10px;
+
+	}
+	a {
+		color:black;
+	}
+
+	ul {
+		width:30%;
+		margin:auto;
+	}
+
+	#Achievements {
+		font-family:helvetica;
+	}
+</style>
+<meta charset="UTF-8">
+<title>blah</title>
+<body>
+	<main><h1>I cAn cODE</h1>
+		<nav><a href="http://">Just</a> <a href="http://">Kidding</a> <a href="http://">I</a> <a href="http://">Don't</a></nav>
+		<div id="GA">
+			<p><input type="email"placeholder="email here"><input type="submit">
+		</div>
+		<div id="A list for no reason"><p><h2>A list for no reason</h2>
+			<ul>
+				<li>What's</li>
+				<li>Up</li>
+				<li>My</li>
+				<li>Friend</li></ul></p></div>
+
+		<div id="Achievements"><h2>Achievements</h2>
+			<p>How much I want a job (100&#37;) <progress id="file" max="100" value="100"> 100% </progress>
+				<br>How motivated I am (20&#37;) <progress id="file" max="100" value="20"> 20% </progress>
+				<br>How fat I am becoming (67&#37;)<progress id="file" max="100" value="67"> 67% </progress>
+			</p></div>
+		<div id="More About Me"><h2>A Secret</h2>
+			<p><details>
+				<summary>Click</summary>
+			Sike</details>
+
+			<img src="https://i.ytimg.com/vi/W8VMewnN1fU/maxresdefault.jpg"alt="a whale" height="60px">
+	</main>
+	<footer> This page was created by Alli.  To learn more about web design, visit <a href="http://google.com">Intro to Web Design</a></footer>
+</body>
+</html>
